@@ -1,0 +1,10 @@
+.Container-Card {
+  color: aliceblue;
+  width: 30rem;
+  height: 30rem;
+  border-radius: 50%;
+  box-shadow: 2px 2px 100px bisque;
+  background-image: url(../../assets/image/dummy.jpg);
+  background-size: cover;
+  background-position: center;
+}
